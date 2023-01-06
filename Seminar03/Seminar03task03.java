@@ -1,12 +1,12 @@
 //Задан целочисленный список ArrayList. Найти минимальное, максимальное и среднее из этого списка
-package seminar_03;
+package Seminar03;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 import java.util.concurrent.ThreadLocalRandom;
 
-public class seminar_03_task_03 {
+public class Seminar03task03 {
     public static void main(String[] args) {
         ThreadLocalRandom randint = ThreadLocalRandom.current();
         Scanner scanner = new Scanner(System.in);

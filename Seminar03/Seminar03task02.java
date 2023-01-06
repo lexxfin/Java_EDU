@@ -1,9 +1,9 @@
 //Пусть дан произвольный список целых чисел, удалить из него четные числа
-package seminar_03;
+package Seminar03;
 import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.concurrent.ThreadLocalRandom;
-public class seminar_03_task_02 {
+public class Seminar03task02 {
     public static void main(String[] args) {
         ThreadLocalRandom randint = ThreadLocalRandom.current();
         Scanner scanner = new Scanner(System.in);

@@ -1,7 +1,9 @@
+package Seminar03;
+
 import java.util.Arrays;
 
 //Реализовать алгоритм сортировки слиянием
-public class seminar_03_task_01 {
+public class Seminar03task01 {
     public static void main(String[] args) {
         int[] arr = {7, 1, 20, 13, 4, 3, 9, 2, 5};
         System.out.print("Исходный массив -> ");
