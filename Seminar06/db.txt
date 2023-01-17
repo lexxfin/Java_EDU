@@ -1,0 +1,8 @@
+HP / 22xx7 / 15.6 / i7 11300 / Iris / 16 ГБ / 512 ГБ / Linux / Grey / 960$
+ASUS / x123b / 15.6 / i5 10500 / 3050 / 16 ГБ / 512 ГБ / Windows / Red / 780$
+HP / 22ff1 / 15.6 / i3 11300 / Iris / 8 ГБ / 256 ГБ / Linux / Grey / 460$
+Lenovo / IdeaPad 3 / 15.6 / AMD Ryzen 5 / AMD Radeon Graphics / 16 ГБ / 512 ГБ / Windows / Silver / 680$
+Apple / MacBook Air 13 Late 2020 / 13.3  / Apple M1 / Apple graphics 7-core / 8 ГБ / 1 ТБ / MacOS / Silver / 2500$
+ASUS / x123a / 15.6 / i5 10500 / 3050 / 8ГБ / 512 ГБ / Windows / Black / 650$
+Lenovo / IdeaPad 3 / 15.6 / AMD Ryzen 5 / AMD Radeon Graphics / 16 ГБ / 512 ГБ / Windows / Blue / 680$
+Apple / MacBook Pro 16 Late 2022 / 16 / Apple M2 / Apple graphics 10-core / 16 ГБ / 1 ТБ / MacOS / Silver / 3500$
